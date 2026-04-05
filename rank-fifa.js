@@ -1387,7 +1387,7 @@ const rankingSelecciones = [
                 points: 1215.30
             }, {
                 date: "01/04/2026",
-                points: 1218.40
+                points: 1000.00
             }
         ]
     }, {
