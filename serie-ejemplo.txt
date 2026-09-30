@@ -1,4 +1,6 @@
 #EXTM3U
+#PLAYLIST: Serie Increíble
+#EXTIMG: https://image.tmdb.org/t/p/w500/7c4sEc5LA23iohFmFk1YIimkssj.jpg
 
 # ==============================================
 #           SERIE: TEMPORADA 1                  
